@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-week-preparation-kit&playlist_slugs%5B%5D=one-week-day-two
+// Calcular a diferença absoluta das diagonais de uma matriz quadrada
 const arr = [
   [11, 2, 4],
   [4, 5, 6],
