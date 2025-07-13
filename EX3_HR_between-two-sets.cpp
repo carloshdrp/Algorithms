@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem
+//https://www.hackerrank.com/challenges/between-two-sets/problem
 //https://mentor404.notion.site/Between-Two-Sets-2132892a679080dcbbc5e809f5ca2775
 
 #include <iostream>
